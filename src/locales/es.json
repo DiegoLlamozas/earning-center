@@ -1,3 +1,24 @@
 {
-  
+  "option": {
+    "home": "Inicio",
+    "about": "Acerca de"
+  },
+  "authoring-phrase": {
+    "intro": "Hecho con ",
+    "use": "usando ",
+    "author": "por el equipo de desarrollo de {brand}"
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "description": "Acme Learning Center es una plataforma dedicada a proporcionar recursos educativos y cursos de alta calidad a estudiantes de todo el mundo. Nuestra misión es empoderar a las personas a través de experiencias de aprendizaje accesibles y atractivas."
+  },
+  "home": {
+    "Title": "Bienvenido a Acme Learning Center",
+    "Content": "¡Explora nuestra amplia gama de cursos y comienza tu viaje de aprendizaje hoy!"
+  },
+  "page-not-found": {
+    "title": "404 - Página No Encontrada",
+    "content": "Lo sentimos, la ruta {unavailable-route} que está buscando no existe.",
+    "go-back-home": "Volver al inicio"
+  }
 }

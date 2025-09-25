@@ -1,3 +1,24 @@
 {
-  
+  "option": {
+    "home": "Home",
+    "about": "About"
+  },
+  "authoring-phrase": {
+    "intro": "Made with ",
+    "use": "using ",
+    "author": "by {brand} Development Team"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Acme Learning Center is a platform dedicated to providing high-quality educational resources and courses to learners worldwide. Our mission is to empower individuals through accessible and engaging learning experiences."
+  },
+  "home": {
+    "Title": "Welcome to Acme Learning Center",
+    "Content": "Explore our wide range of courses and start your learning journey today!"
+  },
+  "page-not-found": {
+    "title": "404 - Page Not Found",
+    "content": "Sorry, the path {unavailable-route} you are looking for does not exist.",
+    "go-back-home": "Go back home"
+  }
 }
